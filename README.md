@@ -16,3 +16,17 @@
       -  [`measured_js`,measured joint state](#measured_js-measured-joint-state)
       -  [`measured_cp`, measured cartesian position](#measured_cp-measured-cartesian-position)
       
+# **General Concepts**
+## Motions
+We identified blah blah blah
+### **`servo`**
+Direct access blah blah:
+- **Use cases:**
+   -  User has blah blah
+   
+### **`interpolate`**
+Direct access blah blah:
+- **Use cases:**
+   -  User has blah blah
+
+
