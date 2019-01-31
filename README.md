@@ -1,6 +1,6 @@
-**Table of Contents** _generated with [Doctoc](https://github.com/thlorenz/doctoc)
+**Table of Contents** _generated_ with [Doctoc](https://github.com/thlorenz/doctoc)
 
-- *[General Concepts](#general-concepts)
+- [General Concepts](#general-concepts)
    - [Motions](#motions)
       - [`servo`](#servo)
       - [`interpolate`](interpolate)
