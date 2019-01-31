@@ -34,4 +34,12 @@ Command names blah blah. The prefix control levele(`servo`, `interpolate` or `mo
 ### Query commands
 -  Space: `j` asd
 
+## Overview
+### Table
+| |**Syntax**|
+|-|----------|
+|Control level | `servo`: direct real time <br> `interpolate`: interpolated <br> `move`: plan trajectory |
+|Feedback | `measured`: direct real time <br> `measuredN`: interpolated <br> `setpoint`: plan trajectory  <br> `goal`: plan trajectory `interpolate` |
+
+
 
