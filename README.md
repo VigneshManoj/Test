@@ -14,7 +14,7 @@ Adnan Munawar: [amunawar@wpi.edu](amunawar@wpi.edu)
 
 ## Install
 
-*download and compile dvrk_env
+* download and compile dvrk_env
 ```bash
 #cd ti catkin ws src dir
 cd /PATH/TO/CATKIN_WS/src
