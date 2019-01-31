@@ -10,3 +10,9 @@
       -  [Motion commands](#motion-commands)
       -  [Data Validity](#data-validity)
    -  [Overview](#overview)
+ -   [Detailed API](#detailed-api)
+   -  [General requirements](#general-requirements)
+   -  [Query commands](#query-commands)
+      -  [`measured_js`,measured joint state](#measured_js-measured-joint-state)
+      -  [`measured_cp`, measured cartesian position](#measured_cp-measured-cartesian-position)
+      
