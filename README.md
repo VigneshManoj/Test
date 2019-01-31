@@ -7,10 +7,10 @@ All the models have been designed at WPI from scratch.
 This repository contains Rviz and Gazebo simulations of the da Vinci Surgical System controlled using ROS.
 
 ## Authors
-Ankur Agrawal: [asagrawal@wpi.edu](asagrawal@wpi.edu) Radian Azhar Gondokaryono: [ragondokaryono@wpi.edu](ragondokaryono@wpi.edu)
+Ankur Agrawal: <asagrawal@wpi.edu> Radian Azhar Gondokaryono: <ragondokaryono@wpi.edu>
 
 ## Maintainer
-Adnan Munawar: [amunawar@wpi.edu](amunawar@wpi.edu)
+Adnan Munawar: <amunawar@wpi.edu>
 
 ## Install
 
