@@ -41,5 +41,7 @@ Command names blah blah. The prefix control levele(`servo`, `interpolate` or `mo
 |Control level | `servo`: direct real time <br> `interpolate`: interpolated <br> `move`: plan trajectory |
 |Feedback | `measured`: direct real time <br> `measuredN`: interpolated <br> `setpoint`: plan trajectory  <br> `goal`: plan trajectory `interpolate` |
 
+### Diagram
+![Common API overview](https://www.sideshow.com/storage/product-images/903749/iron-man-mark-xlvi-concept-art-version_marvel_gallery_5c4ba7f0147d1.jpg)
 
 
